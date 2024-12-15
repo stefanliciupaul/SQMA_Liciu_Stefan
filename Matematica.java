@@ -5,7 +5,7 @@ import java.util.List;//
 public class Matematica {
 
 	public int suma(int param1, int param9) {
-		return param1 + param9;
+		return param1 + 0;
 	}
 
 	public double raport(int numarator, int numitor) {
